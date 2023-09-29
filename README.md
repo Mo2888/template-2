@@ -1,7 +1,11 @@
-#Project Summary
-This project is a versatile web template designed for various web development purposes. It showcases a responsive design achieved through HTML, CSS, and JavaScript,  The template prioritizes an exceptional user experience by combining functionality with aesthetics.
+#   https://github.com/Mo2888/template-2
 
-Key Components:
-HTML Templates: Structured and semantic HTML templates for easy customization.
-CSS Styles: A comprehensive set of CSS styles for consistent and visually appealing layouts.
-JavaScript Functionality: Interactive features and behaviors powered by JavaScript.
+It toggles a menu's visibility when a menu icon is clicked.
+
+It controls the display of slides and associated bullet points in a slider.
+
+It shows a scroll-to-top button when the user scrolls down the page and smoothly scrolls back to the top when clicked.
+
+It handles tabbed content, allowing users to switch between tabs.
+
+Lastly, it dynamically updates the copyright year.
